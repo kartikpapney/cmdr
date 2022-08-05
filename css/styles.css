@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&family=Calistoga&display=swap');
+
+body { 
+    background-color: #ebf5ff;
+    padding-bottom: 120px; 
+}
+.image{
+    position:relative;
+    overflow:hidden;
+    padding-bottom:100%;
+}
+.image img{
+    position:absolute;
+    top: -9999px;
+    bottom: -9999px;
+    left: -9999px;
+    right: -9999px;
+    margin: auto;
+}
+
