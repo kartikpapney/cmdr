@@ -10,6 +10,15 @@ function readTextFile(file, callback) {
     rawFile.send(null);
 }
 
+function getGuide(guides) {
+    var res = "";
+    for(var g of guides) {
+        res += `
+            <p class="card-text">${g.name}</p>
+        `
+    }
+    return res;
+}
 readTextFile("./data/rs.json", function(text){
     var res = "";
     var data = JSON.parse(text);
@@ -17,10 +26,23 @@ readTextFile("./data/rs.json", function(text){
         var ob = data[idx];
         res += 
         `<tr>
-            <th scope="row">${idx}</th>
-            <td>${ob.name}</td>
-            <td>${ob.rollno}</td>
-            <td>${ob.email}</td>
+            <td>
+                <img style="height: 200px; width: auto;" src="././images/rs/${ob.rollno}.jpg" alt="${ob.rollno}">
+            </td>
+            <td class="card-body">
+                <div>
+                    <h5 class="card-title">${ob.name}</h5>
+                    <p class="card-text">${ob.rollno}</p>
+                    <p class="card-text">${ob.email}</p>
+                    <a href="././documents/rs/${ob.cv}" target="_blank" class="btn btn-dark">Curriculum Vitae</a>
+                </div>
+            </td> 
+            <td>
+                ${ob.topic}
+            </td>   
+            <td>
+                ${getGuide(ob.guide)}
+            </td>
         </tr>`
     }
     var el = document.getElementsByClassName("rs");

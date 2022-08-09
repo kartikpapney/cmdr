@@ -3,87 +3,291 @@
 
         "name": "Soham Giri",
         "rollno": "MDP21101",
-        "email": "sohamgiri257979@gmail.com"
+        "cv": "MDP21101.pdf",
+        "email": "sohamgiri257979@gmail.com",
+        "topic": "MR Image Enhancement by using Digital Image Processing and Molecular Imaging",
+        "guide": [
+            {
+                "name": "Prof. Bhabesh Deka",
+                "homepage": ""
+            },
+            {
+                "name": "Prof. Pritam Deb",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Raghavendra Govind Patil",
         "rollno": "MDP21102",
-        "email": "raghavendragpatil@gmail.com"
+        "cv": "MDP21102.pdf",
+        "email": "raghavendragpatil@gmail.com",
+        "topic": "Weight loss study on overweight people with yogic processes, controlled diet and yogic cleaning technique Dhauti",
+        "guide": [
+            {
+                "name": "Prof. S. K. Ray",
+                "homepage": ""
+            },
+            {
+                "name": "Prof. Manabendra Mandal",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Najima Ahmed",
         "rollno": "MDP21103",
-        "email": "najimamail@gmail.com"
+        "cv": "MDP21103.doc",
+        "email": "najimamail@gmail.com",
+        "topic": "DNA damage mechanism by alcoholic beverages",
+        "guide": [
+            {
+                "name": "Prof. R. C. Deka",
+                "homepage": ""
+            },
+            {
+                "name": "Prof. S. K Ray",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Parishmita Kakati",
         "rollno": "MDP21104",
-        "email": "pari.sba2012@gmail.com"
+        "cv": "MDP21104.pdf",
+        "email": "pari.sba2012@gmail.com",
+        "topic": "",
+        "guide": [
+            {
+                "name": "",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Mintu Moni Sarma",
         "rollno": "MDP21105",
-        "email": "mintumonisarma@yahoo.co.in"
+        "cv": "MDP21105.pdf",
+        "email": "mintumonisarma@yahoo.co.in",
+        "topic": "Spirituality as a predictor of mental health: a eudaemonic happiness approach of Hinduism amongst some patients",
+        "guide": [
+            {
+                "name": "Prof. R. C. Deka",
+                "homepage": ""
+            },
+            {
+                "name": "Prof. S. K Ray",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Sudarshina Gogoi",
         "rollno": "MDP21106",
-        "email": "sudarshina.sg@gmail.com"
+        "cv": "MDP21106.pdf",
+        "email": "sudarshina.sg@gmail.com",
+        "topic": "A study on Brahmin Widows of Assam with special reference to the Works of Mamoni Raisom Goswami",
+        "guide": [
+            {
+                "name": "Prof. Rabin Deka",
+                "homepage": ""
+            },
+            {
+                "name": "Prof. Nandana Dutta",
+                "homepage": ""
+            },
+            {
+                "name": "Dr. Mousumi Kandali",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Om Prasad Chetry",
         "rollno": "MDP21107",
-        "email": "chetry_op@indianoil.in"
+        "cv": "MDP21107.pdf",
+        "email": "chetry_op@indianoil.in",
+        "topic": "Potential and Challenges for Biogas Generation from Municipal Solid Waste (MSW) at Large Commercial Scale: A Critical Study with Reference to Guwahati City Limits for Logistic Supply and Management",
+        "guide": [
+            {
+                "name": "Prof. D. C. Baruah",
+                "homepage": ""
+            },
+            {
+                "name": "Dr. Sanjeev P. Mahanta",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Bishnu Sankar Satapathy",
         "rollno": "MDP21108",
-        "email": "bishnusatapathy@gmail.com"
+        "cv": "MDP21108.pdf",
+        "email": "bishnusatapathy@gmail.com",
+        "topic": "Industry 5.0 vs. Organization change management readiness: why do several teams get it wrong!",
+        "guide": [
+            {
+                "name": "Dr. S.I. Singh",
+                "homepage": ""
+            },
+            {
+                "name": "Prof. Jaya Chakraborty",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Priyanka Chakravarty",
         "rollno": "MDP21109",
-        "email": "priyankachakraborty51@gmail.com"
+        "cv": "MDP21109.pdf",
+        "email": "priyankachakraborty51@gmail.com",
+        "topic": "Digital solutions of agri and Origin and Evolution of Assamese Script",
+        "guide": [
+            {
+                "name": "",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Snigdha Choudhury",
         "rollno": "MDP21110",
-        "email": "snigdhatangla@gmail.com"
+        "cv": "MDP21110.pdf",
+        "email": "snigdhatangla@gmail.com",
+        "topic": "",
+        "guide": [
+            {
+                "name": "Prof. Robin K. Dutta",
+                "homepage": ""
+            },
+            {
+                "name": "Dr. Sanjib Deka",
+                "homepage": ""
+            },
+            {
+                "name": "Dr. Gitanjali Bez",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Dharitri Sarmah",
         "rollno": "MDP21111",
-        "email": "dharitrisarmah93@gmail.com"
+        "cv": "MDP21111.docx",
+        "email": "dharitrisarmah93@gmail.com",
+        "topic": "Relationship between child rearing practices and emotional intelligence of pre-school children: with special reference to Bodo community of Assam",
+        "guide": [
+            {
+                "name": "Dr. Yeasmin Sultana",
+                "homepage": ""
+            },
+            {
+                "name": "Dr. Nirmali Goswami",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Anwesha Chaliha",
         "rollno": "MDP21112",
-        "email": "anwesha.chaliha@@terisas.ac.in"
+        "cv": "MDP21112.pdf",
+        "email": "anwesha.chaliha@@terisas.ac.in",
+        "topic": "Social Impact of Rural Technologies developed for Drinking Water",
+        "guide": [
+            {
+                "name": "Prof. Robin K. Dutta",
+                "homepage": ""
+            },
+            {
+                "name": "Dr. Namani Sharma",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Anand Pratap Singh",
         "rollno": "MDP21113",
-        "email": "aps3456@gmail.com"
+        "cv": "MDP21113.pdf",
+        "email": "aps3456@gmail.com",
+        "topic": "Food as Potential Source for Minimization of Drug Load on Society",
+        "guide": [
+            {
+                "name": "Prof. R. C. Deka",
+                "homepage": ""
+            },
+            {
+                "name": "Prof. S. K Ray",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Priyank Bhutani",
         "rollno": "MDP21114",
-        "email": "bhutanipriyank_82@hotmail.com"
+        "cv": "MDP21114.pdf",
+        "email": "bhutanipriyank_82@hotmail.com",
+        "topic": "Effect of Screen time and language Development form (birth to 7 years)",
+        "guide": [
+            {
+                "name": "Dr. S. S. Satapathy",
+                "homepage": ""
+            },
+            {
+                "name": "Prof. S. K Ray",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Elda Mery Khyllait",
         "rollno": "MDP22001",
-        "email": "eldakhyllait94@gmail.com"
+        "cv": "MDP22001.docx",
+        "email": "eldakhyllait94@gmail.com",
+        "topic": "A study on the Community based Forest Management and Conservation in the Khasi community of Meghalaya",
+        "guide": [
+            {
+                "name": "Dr. Mridul Dutta",
+                "homepage": ""
+            },
+            {
+                "name": "Dr. Ashalata Devi",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Bitan Biswas",
         "rollno": "MDP22002",
-        "email": "biswasbitan048@hotmail.com"
+        "cv": "MDP22002.pdf",
+        "email": "biswasbitan048@hotmail.com",
+        "topic": "Climate Change and Plant Adaptation",
+        "guide": [
+            {
+                "name": "Dr. Pankaj Borah",
+                "homepage": ""
+            },
+            {
+                "name": "Dr. Nirmali Gogoi",
+                "homepage": ""
+            }
+        ]
     },
     {
         "name": "Nelson Doley",
         "rollno": "MDP22003",
-        "email": "nelsondoley2017@hotmail.com"
+        "cv": "MDP22003.pdf",
+        "email": "nelsondoley2017@hotmail.com",
+        "topic": "Documentation of Ache Lhamo dance with special reference to Monpa tribe of West Kameng district of Arunachal Pradesh",
+        "guide": [
+            {
+                "name": "Dr. Nima D. Namsa",
+                "homepage": ""
+            },
+            {
+                "name": "Dr. Madhurima Goswami",
+                "homepage": ""
+            }
+        ]
     }
 
 ]

@@ -10,14 +10,14 @@ function readTextFile(file, callback) {
     rawFile.send(null);
 }
 
-readTextFile("./data/supervisors.json", function(text){
+readTextFile("./data/cac.json", function(text){
     var res = "";
     var data = JSON.parse(text);
     for(var ob of data) {
         res += 
         `<div style="width: 20rem;" class="card m-1">
             <div class="image">
-                <img class="card-img-top" src="././images/supervisors/${ob.image}" alt="${ob.name}">
+                <img class="card-img-top" src="././images/cac/${ob.image}" alt="${ob.name}">
             </div>
             <div class="card-body d-flex row text-center">
                 <h5 class="card-title" style="font-family: cursive;">${ob.name}</h5>
@@ -26,7 +26,7 @@ readTextFile("./data/supervisors.json", function(text){
             </div>
         </div>`
     }
-    var el = document.getElementsByClassName("supervisors");
+    var el = document.getElementsByClassName("cac");
     el[0].insertAdjacentHTML ('beforeend',
 
         `<div class="container" style="display: flex; justify-content: space-around; flex-wrap: wrap;">

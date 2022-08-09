@@ -1,0 +1,84 @@
+[
+    {
+        "image": "rcd.jpg",
+        "name": "Ramesh Chandra Deka, PhD",
+        "designation": "Professor",
+        "department": "Department of Chemical Sciences, Tezpur University, Assam, INDIA",
+        "email": "ramesh@tezu.ernet.in",
+        "phone": "+91 3712 275058",
+        "homepage": "https://nishantbiswakarma.wixsite.com/rcd-home" 
+    },
+    {
+        "image": "dcb.jpg",
+        "name": "Debendra Chandra Baruah, PhD, Phd",
+        "designation": "Professor",
+        "department": "Department of Energy, Tezpur University, Assam, INDIA",
+        "email": "baruahd@tezu.ernet.in",
+        "phone": "+91 3712 275307",
+        "homepage": "http://www.tezu.ernet.in/dener/people/homepage/FM_HP_DCB.html" 
+    },
+    {
+        "image": "skr.jpg",
+        "name": "Suvendra Kumar Ray, PhD",
+        "designation": "Professor",
+        "department": "Department of Molecular Biology and Biotechnology, Tezpur University, Assam, INDIA",
+        "email": "suven@tezu.ernet.in",
+        "phone": "+91 3712 275407",
+        "homepage": "http://www.tezu.ernet.in/dmbbt/profile/21" 
+    },
+    {
+        "image": "sis.jpg",
+        "name": "S. Ibotombi Singh, PhD",
+        "designation": "Asst. Professor",
+        "department": "Department of Computer Science and Engineering, Tezpur University, Assam, INDIA",
+        "email": "sis@tezu.ernet.in",
+        "phone": "+91 3712 275106",
+        "homepage": "http://agnigarh.tezu.ernet.in/~sis/index.html" 
+    },
+    {
+        "image": "sss.jpg",
+        "name": "Siddhartha Sankar Satapathy, PhD",
+        "designation": "Associate Professor",
+        "department": "Department of Computer Science and Engineering, Tezpur University, Assam, INDIA",
+        "email": "ssankar@tezu.ernet.in",
+        "phone": "+91 3712 275117",
+        "homepage": "http://agnigarh.tezu.ernet.in/~ssankar/" 
+    },
+    {
+        "image": "mkh.jpg",
+        "name": "Manuj Kumar Hazarika, PhD",
+        "designation": "Professor",
+        "department": "Department of Food Engineering and Technology, Tezpur University, Assam, INDIA",
+        "email": "mkhazarika@tezu.ernet.in",
+        "phone": "+91 3712 275706",
+        "homepage": "http://www.tezu.ernet.in/dfpt/" 
+    },
+    {
+        "image": "pb.jpg",
+        "name": "Papori Baruah, PhD",
+        "designation": "Professor",
+        "department": "Department of Business Administration, Tezpur University, Assam, INDIA",
+        "email": "papori@tezu.ernet.in",
+        "phone": "+91 3712 273021",
+        "homepage": "http://www.tezu.ernet.in/dba/new/papori_baruah_profile.php" 
+    },
+    {
+        "image": "dm.jpg",
+        "name": "Dambarudhar Mohanta, PhD",
+        "designation": "Professor",
+        "department": "Department of Physics, Tezpur University, Assam, INDIA",
+        "email": "best@tezu.ernet.in",
+        "phone": "+91 3712 275558",
+        "homepage": "http://www.tezu.ernet.in/dphy/home/profiles/dm_profile.php" 
+    },
+    {
+        "image": "bd.jpeg",
+        "name": "Bhabesh Deka, PhD",
+        "designation": "Professor",
+        "department": "Electronics and Communication Engineering, Tezpur University, Assam, INDIA",
+        "email": "bdeka@tezu.ernet.in",
+        "phone": "+91 3712 275262",
+        "homepage": "http://agnigarh.tezu.ernet.in/~bdeka/" 
+    }
+    
+]
