@@ -14,7 +14,7 @@ function getGuide(guides) {
     var res = "";
     for(var g of guides) {
         res += `
-            <p class="card-text">${g.name}</p>
+            <p style="white-space: nowrap;"><a href="${g.homepage||"#"}" target="_blank">${g.name}</a></p>
         `
     }
     return res;

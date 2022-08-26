@@ -15,7 +15,7 @@ readTextFile("./data/cac.json", function(text){
     var data = JSON.parse(text);
     for(var ob of data) {
         res += 
-        `<div style="width: 20rem;" class="card m-1">
+        `<div style="width: 16rem;" class="card m-1">
             <div class="image">
                 <img class="card-img-top" src="././images/cac/${ob.image}" alt="${ob.name}">
             </div>

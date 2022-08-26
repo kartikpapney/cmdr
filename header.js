@@ -5,7 +5,7 @@ document.write(
             <div class="d-flex p-2 align-items-center">
                 <img src="./images/tu.png" style="background-color: #123456; padding: 5px;"href="https://www.tezu.ernet.in" target="_blank" alt="TU LOGO" width=auto; height="100px";>
 
-                <div class="ml-auto text-right">
+                <div class="text-left pl-4">
                     <h2 style="font-family: 'Calistoga', cursive; color: white;" >Center for</h2>
                     <h2 style="font-family: 'Calistoga', cursive; color: white;" >Multidisciplinary Research</h2>
                 
@@ -27,7 +27,6 @@ document.write(
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                 <a class="dropdown-item" href="director.html">Director</a>
-                <a class="dropdown-item" href="supervisors.html">Supervisors</a>
                 <a class="dropdown-item" href="cac.html">CAC Members</a>
                 <a class="dropdown-item" href="researchscholars.html">Research Scholars</a>
                 </div>
@@ -40,4 +39,7 @@ document.write(
 
     </nav>
 `
+
 )
+
+/*<a class="dropdown-item" href="supervisors.html">Supervisors</a>*/

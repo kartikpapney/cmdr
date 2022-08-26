@@ -1,84 +1,138 @@
 [
     {
-        "image": "rcd.jpg",
-        "name": "Ramesh Chandra Deka, PhD",
+        "image": "sks.jpg",
+        "name": "Smriti Kumar Sinha",
         "designation": "Professor",
-        "department": "Department of Chemical Sciences, Tezpur University, Assam, INDIA",
-        "email": "ramesh@tezu.ernet.in",
-        "phone": "+91 3712 275058",
-        "homepage": "https://nishantbiswakarma.wixsite.com/rcd-home" 
-    },
-    {
-        "image": "dcb.jpg",
-        "name": "Debendra Chandra Baruah, PhD, Phd",
-        "designation": "Professor",
-        "department": "Department of Energy, Tezpur University, Assam, INDIA",
-        "email": "baruahd@tezu.ernet.in",
-        "phone": "+91 3712 275307",
-        "homepage": "http://www.tezu.ernet.in/dener/people/homepage/FM_HP_DCB.html" 
-    },
-    {
-        "image": "skr.jpg",
-        "name": "Suvendra Kumar Ray, PhD",
-        "designation": "Professor",
-        "department": "Department of Molecular Biology and Biotechnology, Tezpur University, Assam, INDIA",
-        "email": "suven@tezu.ernet.in",
-        "phone": "+91 3712 275407",
-        "homepage": "http://www.tezu.ernet.in/dmbbt/profile/21" 
-    },
-    {
-        "image": "sis.jpg",
-        "name": "S. Ibotombi Singh, PhD",
-        "designation": "Asst. Professor",
-        "department": "Department of Computer Science and Engineering, Tezpur University, Assam, INDIA",
-        "email": "sis@tezu.ernet.in",
-        "phone": "+91 3712 275106",
-        "homepage": "http://agnigarh.tezu.ernet.in/~sis/index.html" 
-    },
-    {
-        "image": "sss.jpg",
-        "name": "Siddhartha Sankar Satapathy, PhD",
-        "designation": "Associate Professor",
-        "department": "Department of Computer Science and Engineering, Tezpur University, Assam, INDIA",
-        "email": "ssankar@tezu.ernet.in",
-        "phone": "+91 3712 275117",
-        "homepage": "http://agnigarh.tezu.ernet.in/~ssankar/" 
-    },
-    {
-        "image": "mkh.jpg",
-        "name": "Manuj Kumar Hazarika, PhD",
-        "designation": "Professor",
-        "department": "Department of Food Engineering and Technology, Tezpur University, Assam, INDIA",
-        "email": "mkhazarika@tezu.ernet.in",
-        "phone": "+91 3712 275706",
-        "homepage": "http://www.tezu.ernet.in/dfpt/" 
+        "department": "Department of Computer Science & Engineering",
+        "homepage": "http://agnigarh.tezu.ernet.in/~smriti/index.html" 
     },
     {
         "image": "pb.jpg",
-        "name": "Papori Baruah, PhD",
+        "name": "Papori Baruah",
         "designation": "Professor",
-        "department": "Department of Business Administration, Tezpur University, Assam, INDIA",
-        "email": "papori@tezu.ernet.in",
-        "phone": "+91 3712 273021",
-        "homepage": "http://www.tezu.ernet.in/dba/new/papori_baruah_profile.php" 
+        "department": "Department of Business Administration",
+        "homepage": "http://www.tezu.ernet.in/dba/new/profile/25" 
     },
+    {
+        "image": "clm.jpg",
+        "name": "Charu Lata Mahanta",
+        "designation": "Professor",
+        "department": "Department of Food Engineering and Technology",
+        "homepage": "http://www.tezu.ernet.in/dfpt/people/faculty_homepage/Dr._Charu_Lata_Mahanta.htm" 
+    },
+    {
+        "image": "cg.jpg",
+        "name": "Chandana Goswami",
+        "designation": "Professor",
+        "department": "Department of Business Administration",
+        "homepage": "http://www.tezu.ernet.in/dba/new/profile/19" 
+    },
+    {
+        "image": "bkd.jpg",
+        "name": "B. K. Danta",
+        "designation": "Professor",
+        "department": "Department of English",
+        "homepage": "http://www.tezu.ernet.in/deng/faculty_files/profile/2bkd.pdf" 
+    },
+    {
+        "image": "dcb.jpg",
+        "name": "Debendra Chandra Baruah",
+        "designation": "Professor",
+        "department": "Department of Energy",
+        "homepage": "http://www.tezu.ernet.in/dfpt/" 
+    },
+    {
+        "image": "ndb.jpg",
+        "name": "Nayandeep Deka Baruah",
+        "designation": "Professor",
+        "department": "Department of Mathematical Sciences",
+        "homepage": "https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html" 
+    },
+    {
+        "image": "rkd.jpg",
+        "name": "Robin Dutta",
+        "designation": "Professor",
+        "department": "Department of Chemical Sciences",
+        "homepage": "http://www.tezu.ernet.in/dcs/personal_profile_rkd.html" 
+    },
+    {
+        "image": "us.jpg",
+        "name": "Utpal Sharma",
+        "designation": "Professor",
+        "department": "Department of Computer Science & Engineering",
+        "homepage": "http://www.tezu.ernet.in/~utpal/index.html" 
+    }
+    ,
+    {
+        "image": "cks.jpg",
+        "name": "Chandan Kumar Sharma",
+        "designation": "Professor",
+        "department": "Department of Social Work",
+        "homepage": "http://agnigarh.tezu.ernet.in/~bdeka/" 
+    }
+    ,
+    {
+        "image": "rde.jpg",
+        "name": "Rabin Deka",
+        "designation": "Professor",
+        "department": "Department of Sociology",
+        "homepage": "https://www.tezu.ernet.in/dsoc/profile/36" 
+    }
+    ,
+    {
+        "image": "dpn.jpg",
+        "name": "D. P. Nath",
+        "designation": "Professor",
+        "department": "Department of Cultural Studies",
+        "homepage": "http://www.tezu.ernet.in/dtcaf/profile/16" 
+    }
+    ,
+    {
+        "image": "mm.jpg",
+        "name": "Manabendra Mandal",
+        "designation": "Professor",
+        "department": "Department of MBBT",
+        "homepage": "https://www.tezu.ernet.in/dmbbt/profile/23" 
+    }
+    ,
+    {
+        "image": "skr.jpg",
+        "name": "Suvendra Kumar Ray",
+        "designation": "Professor",
+        "department": "Department of MBBT",
+        "homepage": "http://www.tezu.ernet.in/dmbbt/profile/21" 
+    }
+    ,
     {
         "image": "dm.jpg",
-        "name": "Dambarudhar Mohanta, PhD",
+        "name": "Dambarudhar Mohanta",
         "designation": "Professor",
-        "department": "Department of Physics, Tezpur University, Assam, INDIA",
-        "email": "best@tezu.ernet.in",
-        "phone": "+91 3712 275558",
-        "homepage": "http://www.tezu.ernet.in/dphy/home/profiles/dm_profile.php" 
-    },
+        "department": "Department of Physics",
+        "homepage": "https://www.tezu.ernet.in/dphy/home/profiles/dm_profile.php" 
+    }
+    ,
     {
-        "image": "bd.jpeg",
-        "name": "Bhabesh Deka, PhD",
+        "image": "jc.jpg",
+        "name": "Joya Chakraborty",
         "designation": "Professor",
-        "department": "Electronics and Communication Engineering, Tezpur University, Assam, INDIA",
-        "email": "bdeka@tezu.ernet.in",
-        "phone": "+91 3712 275262",
-        "homepage": "http://agnigarh.tezu.ernet.in/~bdeka/" 
+        "department": "Department of MCJ",
+        "homepage": "http://www.tezu.ernet.in/dmass/profile/21" 
+    }
+    ,
+    {
+        "image": "sss.jpg",
+        "name": "Siddhartha S. Satapathy",
+        "designation": "Associate Professor",
+        "department": "Department of Computer Science & Engineering",
+        "homepage": "http://agnigarh.tezu.ernet.in/~ssankar/index.html" 
+    }
+    ,
+    {
+        "image": "sd.jpg",
+        "name": "Sanjib Pol Deka",
+        "designation": "Assistant Professor",
+        "department": "Department of Assamese",
+        "homepage": "http://www.tezu.ernet.in/das/sd.html" 
     }
     
 ]

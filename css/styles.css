@@ -17,4 +17,6 @@ body {
     right: -9999px;
     margin: auto;
 }
-
+.nav-link {
+    color: white !important;
+}
